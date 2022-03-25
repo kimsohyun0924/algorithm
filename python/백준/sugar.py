@@ -14,7 +14,3 @@ while sugar >= 0 :
 
 else : 
     print(-1)
-
-
-
-11111
